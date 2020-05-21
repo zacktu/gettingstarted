@@ -1,2 +1,2 @@
 # gettingstarted
-following a tutorial
+# setting up the README in the tutorial
